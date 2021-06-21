@@ -1,0 +1,703 @@
+codigo,ayuntamiento,CODPROV,provincia,salario,poblacion,dedicación
+40001,Abades,40,Segovia,2867.68,857,parcial
+9001,Abajas,9,Burgos,240,31,sin dedicación
+42001,ABEJAR,42,Soria,8500,286,parcial
+34003,Abia de las Torres,34,Palencia,720,170,sin dedicación
+24001,Acebedo,24,León,4579.02,184,parcial
+47001,Adalia,47,Valladolid,1112.33,53,sin dedicación
+5002,"Adrada, La",5,Ávila,13858.8,2539,parcial
+37002,Agallas,37,Salamanca,300,132,sin dedicación
+42004,Ágreda,42,Soria,2232.42,3026,sin dedicación
+40004,Aguilafuente,40,Segovia,480,566,sin dedicación
+34004,Aguilar de Campoo,34,Palencia,26594.01,6749,exclusiva
+47004,Alaejos,47,Valladolid,16177.21,1379,exclusiva
+49003,Alcañices,49,Zamora,175,1065,sin dedicación
+40012,ALDEA REAL,40,Segovia,2250,279,sin dedicación
+37014,Aldeadávila de la Ribera,37,Salamanca,14906.74,1209,exclusiva
+47007,Aldeamayor de San Martín,47,Valladolid,15949.99,5634,parcial
+37017,Aldeanueva de Figueroa,37,Salamanca,2725.95,250,parcial
+42013,Aldehuela de Periáñez,42,Soria,150,32,sin dedicación
+42014,"Aldehuelas, Las",42,Soria,250,60,sin dedicación
+9011,Alfoz de Bricia,9,Burgos,163.27,70,sin dedicación
+9012,Alfoz de Santa Gadea,9,Burgos,1609.5,104,parcial
+49006,Algodre,49,Zamora,630,141,parcial
+24004,Almanza,24,León,590,581,sin dedicación
+49007,Almaraz de Duero,49,Zamora,1350,401,sin dedicación
+42020,Almazán,42,Soria,13079.96,5477,exclusiva
+42021,Almazul,42,Soria,641.1,62,parcial
+42022,Almenar de Soria,42,Soria,244.9,232,sin dedicación
+37028,Almendra,37,Salamanca,125,142,sin dedicación
+9014,"Altos, Los",9,Burgos,1500,184,sin dedicación
+34010,Ampudia,34,Palencia,3668.41,606,parcial
+34011,Amusco,34,Palencia,1760,418,parcial
+47009,Amusquillo,47,Valladolid,120,102,sin dedicación
+49009,Andavías,49,Zamora,550,452,sin dedicación
+24005,"Antigua, La",24,León,992.46,358,parcial
+9018,Aranda de Duero,9,Burgos,30125.53,33187,exclusiva
+49010,Arcenillas,49,Zamora,150,428,sin dedicación
+9023,Arcos,9,Burgos,5905.62,1775,parcial
+42025,Arcos de Jalón,42,Soria,1610,1454,sin dedicación
+24006,Ardón,24,León,1030,560,sin dedicación
+5014,Arenas de San Pedro,5,Ávila,2010,6344,sin dedicación
+5016,Arévalo,5,Ávila,23637.26,7960,exclusiva
+9025,Arija,9,Burgos,160,121,sin dedicación
+49014,Arquillinos,49,Zamora,414.61,119,sin dedicación
+47010,Arroyo de la Encomienda,47,Valladolid,22961.45,20537,exclusiva
+49016,Aspariegos,49,Zamora,192.32,245,sin dedicación
+24008,Astorga,24,León,3110,10741,sin dedicación
+34017,Astudillo,34,Palencia,6082.53,1006,parcial
+47011,Ataquines,47,Valladolid,2031.1,569,parcial
+5019,ÁVILA,5,Ávila,33336.9,58369,exclusiva
+40024,Ayllón,40,Segovia,22624,1182,exclusiva
+49018,Ayoó de Vidriales,49,Zamora,520,289,sin dedicación
+37038,Babilafuente,37,Salamanca,460,917,sin dedicación
+34022,Baltanás,34,Palencia,2020,1206,sin dedicación
+24010,"Bañeza, La",24,León,18961.3,10290,parcial
+9037,Barbadillo de Herreros,9,Burgos,300,109,sin dedicación
+40025,Barbolla,40,Segovia,250,158,sin dedicación
+49019,Barcial del Barco,49,Zamora,225,247,sin dedicación
+5021,"Barco de Ávila, El",5,Ávila,12463.77,2330,exclusiva
+5022,"Barraco, El",5,Ávila,29000,1893,parcial
+9045,Basconcillos del Tozo,9,Burgos,790,295,sin dedicación
+34029,Becerril de Campos,34,Palencia,5023.98,742,parcial
+37046,BÉJAR,37,Salamanca,20169.57,12559,parcial
+9048,Belorado,9,Burgos,14328,1780,exclusiva
+24014,Bembibre,24,León,14215,8598,parcial
+49021,Benavente,49,Zamora,22232.17,17787,exclusiva
+24016,Benuza,24,León,3790,482,sin dedicación
+24017,Bercianos del Páramo,24,León,4200,554,parcial
+24018,Bercianos del Real Camino,24,León,360,185,sin dedicación
+5027,"Berlanas, Las",5,Ávila,200,329,sin dedicación
+24019,Berlanga del Bierzo,24,León,1260,354,sin dedicación
+49023,Bermillo de Sayago,49,Zamora,300,1007,sin dedicación
+40031,Bernuy de Porreros,40,Segovia,280,766,sin dedicación
+9052,Berzosa de Bureba,9,Burgos,250,29,sin dedicación
+34032,Berzosilla,34,Palencia,250,42,sin dedicación
+47020,Bobadilla del Campo,47,Valladolid,1428.49,292,parcial
+24020,Boca de Huérgano,24,León,600,455,sin dedicación
+40032,Boceguillas,40,Segovia,5935.05,719,parcial
+47023,Boecillo,47,Valladolid,4088.71,4148,parcial
+5037,Bohoyo,5,Ávila,204.38,232,sin dedicación
+24021,Boñar,24,León,1200,1816,sin dedicación
+24022,Borrenes,24,León,4800,309,sin dedicación
+49024,"Bóveda de Toro, La",49,Zamora,3780.23,699,parcial
+24023,Brazuelo,24,León,350,337,sin dedicación
+9056,Briviesca,9,Burgos,12240,6582,exclusiva
+37060,Buenavista,37,Salamanca,40,350,sin dedicación
+9058,Buniel,9,Burgos,320,563,sin dedicación
+42043,Burgo de Osma-Ciudad de Osma,42,Soria,9999.99,5038,parcial
+24024,"Burgo Ranero, El",24,León,2678.14,702,sin dedicación
+9059,BURGOS,9,Burgos,48103.39,176418,exclusiva
+24025,Burón,24,León,2824.55,303,sin dedicación
+34038,Bustillo de la Vega,34,Palencia,5195.86,285,parcial
+24026,Bustillo del Páramo,24,León,794.75,1129,sin dedicación
+49031,Cabañas de Sayago,49,Zamora,90,151,sin dedicación
+24027,Cabañas Raras,24,León,2810,1335,sin dedicación
+9062,Cabezón de la Sierra,9,Burgos,175,40,sin dedicación
+47027,Cabezón de Pisuerga,47,Valladolid,16307.48,3763,exclusiva
+37067,CABRERIZOS,37,Salamanca,1570,4254,sin dedicación
+24028,Cabreros del Río,24,León,150,417,sin dedicación
+24029,Cabrillanes,24,León,840,747,sin dedicación
+24030,Cacabelos,24,León,16010.5,4996,exclusiva
+37069,Calvarrasa de Abajo,37,Salamanca,100,1166,sin dedicación
+37072,Calzada de Don Diego,37,Salamanca,400,153,sin dedicación
+34042,Calzada de los Molinos,34,Palencia,1950,324,sin dedicación
+37073,Calzada de Valdunciel,37,Salamanca,250,690,sin dedicación
+24031,Calzada del Coto,24,León,350,218,sin dedicación
+47030,Campaspero,47,Valladolid,6036,1060,parcial
+9065,Campillo de Aranda,9,Burgos,1000,179,sin dedicación
+47031,"Campillo, El",47,Valladolid,2642.19,213,parcial
+24033,Campo de Villavidel,24,León,1077.26,212,parcial
+24034,Camponaraya,24,León,5708,4097,sin dedicación
+37078,Candelario,37,Salamanca,425,860,sin dedicación
+5047,Candeleda,5,Ávila,16300.54,5025,exclusiva
+37079,Canillas de Abajo,37,Salamanca,9642.08,77,parcial
+40040,Cantalejo,40,Segovia,10506.93,3562,exclusiva
+37082,Cantalpino,37,Salamanca,90,833,sin dedicación
+40041,Cantimpalos,40,Segovia,8743.26,1340,parcial
+49035,Cañizo,49,Zamora,270.45,228,sin dedicación
+49036,Carbajales de Alba,49,Zamora,220,506,sin dedicación
+37085,Carbajosa de la Sagrada,37,Salamanca,13200,7251,sin dedicación
+40043,Carbonero el Mayor,40,Segovia,15456.17,2494,parcial
+9072,Carcedo de Burgos,9,Burgos,120,424,sin dedicación
+9073,Cardeñadijo,9,Burgos,10218.46,1369,parcial
+9074,Cardeñajimeno,9,Burgos,5350.02,1136,parcial
+34046,Cardeñosa de Volpejera,34,Palencia,150,53,sin dedicación
+47035,Carpio,47,Valladolid,5268.48,994,parcial
+24038,Carracedelo,24,León,19055.55,3364,exclusiva
+37087,Carrascal de Barregas,37,Salamanca,585,1231,sin dedicación
+34047,Carrión de los Condes,34,Palencia,15194.8,2035,exclusiva
+24039,Carrizo,24,León,630,2224,sin dedicación
+24040,Carrocera,24,León,560,446,sin dedicación
+24041,Carucedo,24,León,4654,531,sin dedicación
+47036,Casasola de Arión,47,Valladolid,1200,250,sin dedicación
+5055,Casillas,5,Ávila,1131.24,640,parcial
+37092,Castellanos de Moriscos,37,Salamanca,4562.78,2724,parcial
+37185,Castellanos de Villiquera,37,Salamanca,5446.6,628,parcial
+9083,Castil de Peones,9,Burgos,1800,25,sin dedicación
+24042,Castilfalé,24,León,451.66,67,sin dedicación
+34049,Castrejón de la Peña,34,Palencia,480.8,344,sin dedicación
+24043,Castrillo de Cabrera,24,León,700,111,sin dedicación
+9084,Castrillo de la Reina,9,Burgos,150,176,sin dedicación
+24044,Castrillo de la Valduerna,24,León,420,155,sin dedicación
+34052,Castrillo de Villavega,34,Palencia,320,175,sin dedicación
+9086,Castrillo del Val,9,Burgos,13865.73,793,parcial
+47039,Castrillo-Tejeriego,47,Valladolid,5500.03,163,parcial
+47040,Castrobol,47,Valladolid,716,56,sin dedicación
+24046,Castrocalbón,24,León,2300,938,sin dedicación
+47043,Castromonte,47,Valladolid,480,318,sin dedicación
+47045,Castronuño,47,Valladolid,4270,833,parcial
+24049,Castropodame,24,León,12139.55,1629,exclusiva
+40051,Castroserracín,40,Segovia,150,40,sin dedicación
+24050,Castrotierra de Valmadrigal,24,León,450,114,sin dedicación
+47047,Castroverde de Cerrato,47,Valladolid,80,215,sin dedicación
+49044,Cazurra,49,Zamora,650,76,sin dedicación
+24051,Cea,24,León,200,403,sin dedicación
+24053,Cebrones del Río,24,León,282.71,439,sin dedicación
+49046,Cerecinos de Campos,49,Zamora,240,257,sin dedicación
+9098,Cerezo de Río Tirón,9,Burgos,2000,541,parcial
+49048,Cernadilla,49,Zamora,300,119,sin dedicación
+9100,Cerratón de Juarros,9,Burgos,900,55,sin dedicación
+37102,"Cerro, El",37,Salamanca,6000,399,sin dedicación
+34056,CERVERA DE PISUERGA,34,Palencia,17368.54,2277,exclusiva
+40065,Chañe,40,Segovia,7682.5,708,parcial
+47050,Cigales,47,Valladolid,8442.78,5328,exclusiva
+9102,Cillaperlata,9,Burgos,1267.18,31,sin dedicación
+24054,Cimanes de la Vega,24,León,3180.68,449,parcial
+47052,Cistérniga,47,Valladolid,18849.6,9016,exclusiva
+37107,Ciudad Rodrigo,37,Salamanca,5320.72,12261,sin dedicación
+49050,Cobreros,49,Zamora,420,568,sin dedicación
+40057,Coca,40,Segovia,240,1726,sin dedicación
+47053,Cogeces de Íscar,47,Valladolid,480,136,sin dedicación
+47054,Cogeces del Monte,47,Valladolid,5499.99,659,parcial
+9108,Cogollos,9,Burgos,650.82,570,sin dedicación
+5062,Collado de Contreras,5,Ávila,430,160,sin dedicación
+40059,COLLADO HERMOSO,40,Segovia,900,124,sin dedicación
+9109,Condado de Treviño,9,Burgos,1090,1363,sin dedicación
+34062,Congosto de Valdavia,34,Palencia,2525,151,sin dedicación
+47055,Corcos,47,Valladolid,60,203,sin dedicación
+49053,Coreses,49,Zamora,1650,1044,sin dedicación
+24059,Corullón,24,León,2496.01,887,parcial
+42069,COVALEDA,42,Soria,13521.67,1644,parcial
+9113,Covarrubias,9,Burgos,3864.49,541,sin dedicación
+24060,Crémenes,24,León,445,527,sin dedicación
+24061,Cuadros,24,León,15958.46,2035,parcial
+24062,Cubillas de los Oteros,24,León,1062.5,135,parcial
+24064,Cubillos del Sil,24,León,9799.9,1768,parcial
+40063,CUÉLLAR,40,Segovia,19500,9659,exclusiva
+24066,Destriana,24,León,770,459,sin dedicación
+34069,Dueñas,34,Palencia,2340,2624,sin dedicación
+42078,Duruelo de la Sierra,42,Soria,11902.87,1088,exclusiva
+24067,Encinedo,24,León,320,690,sin dedicación
+49061,Entrala,49,Zamora,250,154,sin dedicación
+24068,"Ercina, La",24,León,710,441,sin dedicación
+40073,Escalona del Prado,40,Segovia,360,495,sin dedicación
+47061,Esguevillas de Esgueva,47,Valladolid,110,265,sin dedicación
+40076,"Espinar, El",40,Segovia,8003,9086,sin dedicación
+9124,Espinosa de los Monteros,9,Burgos,13179.35,1651,parcial
+34071,Espinosa de Villagonzalo,34,Palencia,3600,168,sin dedicación
+40077,Espirdo,40,Segovia,350,1389,sin dedicación
+9125,Estépar,9,Burgos,3900,596,sin dedicación
+24070,Fabero,24,León,9223.47,4386,sin dedicación
+49063,Faramontanos de Tábara,49,Zamora,240,319,sin dedicación
+49065,Fermoselle,49,Zamora,486,1164,sin dedicación
+49066,Ferreras de Abajo,49,Zamora,315,479,sin dedicación
+24071,Folgoso de la Ribera,24,León,690,1045,sin dedicación
+49071,Fonfría,49,Zamora,3728,750,sin dedicación
+5075,Fresnedilla,5,Ávila,100,107,sin dedicación
+40080,Fresno de la Fuente,40,Segovia,360,79,sin dedicación
+49075,Fresno de la Polvorosa,49,Zamora,140.25,132,sin dedicación
+49076,Fresno de la Ribera,49,Zamora,11374.41,375,parcial
+24073,Fresno de la Vega,24,León,3152.76,479,parcial
+34073,Fresno del Río,34,Palencia,400,186,sin dedicación
+9134,Frías,9,Burgos,3337.1,247,parcial
+34074,Frómista,34,Palencia,3806.75,784,parcial
+47066,Fuensaldaña,47,Valladolid,315,1954,sin dedicación
+49079,Fuente Encalada,49,Zamora,325,102,sin dedicación
+42085,Fuentearmegil,42,Soria,1100,171,sin dedicación
+42087,Fuentecantos,42,Soria,774.08,63,parcial
+37136,Fuenteguinaldo,37,Salamanca,313,678,sin dedicación
+49080,Fuentelapeña,49,Zamora,6789.5,669,parcial
+42089,Fuentelsaz de Soria,42,Soria,3241.12,61,parcial
+40086,Fuentepelayo,40,Segovia,3900,822,parcial
+24074,Fuentes de Carbajal,24,León,300,93,sin dedicación
+49081,Fuentesaúco,49,Zamora,300,1587,sin dedicación
+40089,Fuentesaúco de Fuentidueña,40,Segovia,96,233,sin dedicación
+37142,Galindo y Perahuy,37,Salamanca,320,653,sin dedicación
+37144,Galisancho,37,Salamanca,710,361,sin dedicación
+49086,Gallegos del Pan,49,Zamora,313.92,111,parcial
+24076,Garrafe de Torío,24,León,1700,1513,sin dedicación
+42094,Garray,42,Soria,350,721,sin dedicación
+5082,Gavilanes,5,Ávila,12000,563,parcial
+49090,Gema,49,Zamora,2147.22,215,parcial
+47071,Geria,47,Valladolid,600,506,sin dedicación
+42095,Golmayo,42,Soria,7839.92,2778,sin dedicación
+24077,Gordaliza del Pino,24,León,300,245,sin dedicación
+24078,Gordoncillo,24,León,490,365,sin dedicación
+24079,Gradefes,24,León,1670,931,sin dedicación
+40097,Grajera,40,Segovia,323.12,228,sin dedicación
+49092,Granucillo,49,Zamora,300,119,sin dedicación
+34079,Grijota,34,Palencia,6600,2362,sin dedicación
+34080,Guardo,34,Palencia,12887.03,5872,exclusiva
+37156,Guijuelo,37,Salamanca,4240,5616,sin dedicación
+5089,Guisando,5,Ávila,180,510,sin dedicación
+9151,Gumiel de Izán,9,Burgos,1083.03,561,sin dedicación
+24081,Gusendos de los Oteros,24,León,500,126,sin dedicación
+49094,Hermisende,49,Zamora,3475.86,221,parcial
+34083,Herrera de Pisuerga,34,Palencia,4875,1914,sin dedicación
+34084,Herrera de Valdecañas,34,Palencia,1790.56,156,sin dedicación
+5095,Higuera de las Dueñas,5,Ávila,300,260,sin dedicación
+49095,"Hiniesta, La",49,Zamora,586.66,313,sin dedicación
+40101,Hontanares de Eresma,40,Segovia,3321.11,1456,exclusiva
+5099,Horcajo de las Torres,5,Ávila,150,496,sin dedicación
+9166,"Hormazas, Las",9,Burgos,886.4,96,sin dedicación
+34087,Hornillos de Cerrato,34,Palencia,1151.22,143,sin dedicación
+47074,Hornillos de Eresma,47,Valladolid,300,166,sin dedicación
+9167,Hornillos del Camino,9,Burgos,500,59,sin dedicación
+24082,Hospital de Órbigo,24,León,1750,991,sin dedicación
+5102,"Hoyo de Pinares, El",5,Ávila,22684.92,2129,exclusiva
+9172,Huérmeces,9,Burgos,684.57,161,sin dedicación
+9174,Huerta de Rey,9,Burgos,1495,901,sin dedicación
+34088,Husillos,34,Palencia,315,330,sin dedicación
+24083,Igüeña,24,León,2540.65,1123,sin dedicación
+47075,Íscar,47,Valladolid,9251.21,6341,parcial
+40104,Ituero y Lama,40,Segovia,250,379,sin dedicación
+24084,Izagre,24,León,800,161,sin dedicación
+49096,Jambrina,49,Zamora,589.98,150,sin dedicación
+24086,Joarilla de las Matas,24,León,360,279,sin dedicación
+5108,Junciana,5,Ávila,85,35,sin dedicación
+9189,Junta de Traslaloma,9,Burgos,3960,128,sin dedicación
+34091,Lagartos,34,Palencia,328.77,124,sin dedicación
+24087,Laguna Dalga,24,León,2422.5,640,sin dedicación
+47076,Laguna de Duero,47,Valladolid,8320,22765,sin dedicación
+24088,Laguna de Negrillos,24,León,600,1061,sin dedicación
+5109,Langa,5,Ávila,150,480,sin dedicación
+47077,Langayo,47,Valladolid,2400,250,sin dedicación
+34092,Lantadilla,34,Palencia,3480,280,sin dedicación
+40112,"Lastrilla, La",40,Segovia,4935.41,4020,exclusiva
+37170,Ledesma,37,Salamanca,1208.7,1547,parcial
+37171,Ledrada,37,Salamanca,9792.16,477,parcial
+24089,LEÓN,24,León,29526.24,124028,exclusiva
+24092,Llamas de la Ribera,24,León,8123.22,800,parcial
+40113,"Losa, La",40,Segovia,2500,519,parcial
+49098,Losacino,49,Zamora,150,210,sin dedicación
+49099,Losacio,49,Zamora,150,95,sin dedicación
+5112,"Losar del Barco, El",5,Ávila,50,107,sin dedicación
+49100,Lubián,49,Zamora,120,304,sin dedicación
+24090,Lucillo,24,León,12475.65,367,parcial
+49101,Luelmo,49,Zamora,244.8,147,sin dedicación
+37173,Lumbrales,37,Salamanca,524.14,1571,sin dedicación
+24091,Luyego,24,León,90,590,sin dedicación
+37174,MACOTERA,37,Salamanca,125,1019,sin dedicación
+5114,Madrigal de las Altas Torres,5,Ávila,16394,1399,exclusiva
+9196,Madrigal del Monte,9,Burgos,180,147,sin dedicación
+37176,Madroñal,37,Salamanca,1355.01,142,parcial
+5115,Maello,5,Ávila,40,590,sin dedicación
+24093,Magaz de Cepeda,24,León,850,367,sin dedicación
+34098,Magaz de Pisuerga,34,Palencia,2985.03,1015,parcial
+49105,Maire de Castroponce,49,Zamora,375,141,sin dedicación
+34099,Manquillos,34,Palencia,240,61,sin dedicación
+24095,Mansilla Mayor,24,León,1350,337,parcial
+49112,Manzanal de los Infantes,49,Zamora,240,120,sin dedicación
+37183,Martín de Yeltes,37,Salamanca,2076.67,407,parcial
+40122,Marugán,40,Segovia,16044.67,606,parcial
+37184,Masueco,37,Salamanca,360,285,sin dedicación
+24097,Matadeón de los Oteros,24,León,295.8,223,sin dedicación
+24099,Matanza,24,León,816,161,sin dedicación
+49113,Matilla de Arzón,49,Zamora,28,164,sin dedicación
+49114,Matilla la Seca,49,Zamora,500,42,sin dedicación
+47084,Mayorga,47,Valladolid,10308.33,1478,parcial
+47086,Medina de Rioseco,47,Valladolid,825,4606,sin dedicación
+47087,Megeces,47,Valladolid,804,427,sin dedicación
+9211,Melgar de Fernamental,9,Burgos,11412.38,1548,parcial
+9213,Merindad de Cuesta-Urria,9,Burgos,330,291,sin dedicación
+9214,Merindad de Montija,9,Burgos,11660.4,707,sin dedicación
+9906,MERINDAD DE RÍO UBIERNA,9,Burgos,6660,1418,sin dedicación
+9217,Merindad de Valdivielso,9,Burgos,1450,380,sin dedicación
+49118,Milles de la Polvorosa,49,Zamora,420,213,sin dedicación
+9219,MIRANDA DE EBRO,9,Burgos,25394.62,35760,exclusiva
+37194,Mogarraz,37,Salamanca,6000,268,parcial
+47090,Mojados,47,Valladolid,17294.91,3258,exclusiva
+49119,Molacillos,49,Zamora,4102.83,242,parcial
+24100,Molinaseca,24,León,5797.02,862,parcial
+5132,Mombeltrán,5,Ávila,150,942,sin dedicación
+49123,Montamarta,49,Zamora,1035,569,sin dedicación
+47093,Montemayor de Pililla,47,Valladolid,4182.18,857,parcial
+37202,Monterrubio de Armuña,37,Salamanca,196,1326,sin dedicación
+9226,Monterrubio de la Demanda,9,Burgos,300,56,sin dedicación
+34108,Monzón de Campos,34,Palencia,1755,586,sin dedicación
+49124,Moral de Sayago,49,Zamora,3275.1,257,parcial
+47096,Morales de Campos,47,Valladolid,1361.7,141,parcial
+49128,Morales de Rey,49,Zamora,140.05,569,sin dedicación
+49129,MORALES DE TORO,49,Zamora,6076.04,954,parcial
+49130,Morales de Valverde,49,Zamora,40,163,sin dedicación
+49127,Morales del Vino,49,Zamora,12288.71,2971,exclusiva
+49131,Moralina,49,Zamora,96,241,sin dedicación
+49133,Moreruela de Tábara,49,Zamora,200,305,sin dedicación
+47097,Mota del Marqués,47,Valladolid,90,349,sin dedicación
+40134,Mozoncillo,40,Segovia,9073.54,879,parcial
+47099,"Mudarra, La",47,Valladolid,384.33,157,sin dedicación
+49135,Muelas del Pan,49,Zamora,160,615,sin dedicación
+5138,Muñogalindo,5,Ávila,150,326,sin dedicación
+40135,Muñopedro,40,Segovia,1200,313,sin dedicación
+24101,Murias de Paredes,24,León,300,371,sin dedicación
+5148,Narros del Puerto,5,Ávila,200,23,sin dedicación
+47101,Nava del Rey,47,Valladolid,3500,1975,parcial
+5155,Navaescurial,5,Ávila,1400,45,parcial
+5156,Navahondilla,5,Ávila,12024.25,321,parcial
+42129,Navaleno,42,Soria,9728.55,768,exclusiva
+40141,Navalmanzano,40,Segovia,10215.45,1047,parcial
+5159,Navalonguilla,5,Ávila,1176.6,216,sin dedicación
+5161,Navalperal de Pinares,5,Ávila,1614.28,757,sin dedicación
+5165,Navarredonda de Gredos,5,Ávila,16250,430,parcial
+40904,Navas de Riofrío,40,Segovia,5172.89,386,parcial
+40146,Navas de San Antonio,40,Segovia,8230.43,343,parcial
+37221,Navasfrías,37,Salamanca,135,422,sin dedicación
+40148,Nieva,40,Segovia,4001.13,263,parcial
+24102,Noceda del Bierzo,24,León,1983.3,640,sin dedicación
+34112,Nogal de las Huertas,34,Palencia,1884.41,41,sin dedicación
+42132,Noviercas,42,Soria,2100,154,sin dedicación
+47102,Nueva Villa de las Torres,47,Valladolid,2500,272,parcial
+47103,Olivares de Duero,47,Valladolid,250,296,sin dedicación
+9235,Olmedillo de Roa,9,Burgos,544.78,191,sin dedicación
+47104,Olmedo,47,Valladolid,21226.1,3646,exclusiva
+49138,Olmillos de Castro,49,Zamora,588.36,213,sin dedicación
+47105,Olmos de Esgueva,47,Valladolid,100,185,sin dedicación
+34114,Olmos de Ojeda,34,Palencia,250,194,sin dedicación
+40149,Olombrada,40,Segovia,3272.05,536,parcial
+42134,Ólvega,42,Soria,14730.01,3675,exclusiva
+24105,Onzonilla,24,León,3660,1832,sin dedicación
+9241,Orbaneja Riopico,9,Burgos,300,339,sin dedicación
+40901,Ortigosa del Monte,40,Segovia,539,544,sin dedicación
+24106,Oseja de Sajambre,24,León,1739.17,224,parcial
+34116,Osornillo,34,Palencia,100,56,sin dedicación
+34901,Osorno la Mayor,34,Palencia,6650,1185,parcial
+40152,Otero de Herreros,40,Segovia,6279.6,943,parcial
+24108,Palacios de la Valduerna,24,León,550,383,sin dedicación
+49142,Palacios del Pan,49,Zamora,125,259,sin dedicación
+24109,Palacios del Sil,24,León,1050,907,sin dedicación
+40155,PALAZUELOS DE ERESMA,40,Segovia,4913.51,5538,sin dedicación
+34120,PALENCIA,34,Palencia,24749.34,78144,exclusiva
+37229,Palencia de Negrilla,37,Salamanca,120,155,sin dedicación
+37232,Paradinas de San Juan,37,Salamanca,1676,383,parcial
+24110,Páramo del Sil,24,León,14892.02,1255,exclusiva
+9255,Partido de la Sierra en Tobalina,9,Burgos,4119.65,83,sin dedicación
+47111,"Pedraja de Portillo, La",47,Valladolid,14061.9,1126,exclusiva
+47112,Pedrajas de San Esteban,47,Valladolid,2670,3314,sin dedicación
+34125,Pedraza de Campos,34,Palencia,462,95,sin dedicación
+34126,Pedrosa de la Vega,34,Palencia,3517.87,301,parcial
+47113,Pedrosa del Rey,47,Valladolid,750,158,sin dedicación
+5184,Peguerinos,5,Ávila,12544.37,275,parcial
+37240,Pelabravo,37,Salamanca,1200,1210,sin dedicación
+49147,Peleagonzalo,49,Zamora,750,276,sin dedicación
+47114,Peñafiel,47,Valladolid,3800,5054,sin dedicación
+37246,Peñaranda de Bracamonte,37,Salamanca,1887,6161,sin dedicación
+49149,Peñausende,49,Zamora,150,384,sin dedicación
+37248,Peralejos de Abajo,37,Salamanca,2700,163,parcial
+49151,"Perdigón, El",49,Zamora,300,673,sin dedicación
+49153,Perilla de Castro,49,Zamora,479.32,161,sin dedicación
+34904,"Pernía, La",34,Palencia,3252.81,316,parcial
+49154,Pías,49,Zamora,116,111,sin dedicación
+5187,Piedralaves,5,Ávila,13389.43,2070,exclusiva
+40160,Pinarnegrillo,40,Segovia,160,92,sin dedicación
+9266,Pineda de la Sierra,9,Burgos,300,98,sin dedicación
+9270,Pinilla Trasmonte,9,Burgos,90,168,sin dedicación
+49157,Pino del Oro,49,Zamora,150,183,sin dedicación
+34129,Pino del Río,34,Palencia,1410.6,170,sin dedicación
+34131,Población de Arroyo,34,Palencia,328.77,55,sin dedicación
+49160,Pobladura de Valderaduey,49,Zamora,125,40,sin dedicación
+47121,Pollos,47,Valladolid,6540.34,601,parcial
+34135,Pomar de Valdivia,34,Palencia,2886.32,467,parcial
+24115,PONFERRADA,24,León,29271.81,64509,exclusiva
+47122,Portillo,47,Valladolid,13229.18,2373,exclusiva
+49162,Porto,49,Zamora,150,156,sin dedicación
+9272,Poza de la Sal,9,Burgos,9877.98,274,parcial
+49164,Pozuelo de Tábara,49,Zamora,240,154,sin dedicación
+24117,Pozuelo del Páramo,24,León,788.05,423,sin dedicación
+9273,Prádanos de Bureba,9,Burgos,600,52,sin dedicación
+34139,Prádanos de Ojeda,34,Palencia,2620.08,186,parcial
+40162,Prádena,40,Segovia,4733.94,510,parcial
+24118,Prado de la Guzpeña,24,León,210,104,sin dedicación
+24120,Prioro,24,León,560,332,sin dedicación
+9276,"Puebla de Arganzón, La",9,Burgos,980,502,parcial
+24121,Puebla de Lillo,24,León,11414.82,652,parcial
+34140,"Puebla de Valdavia, La",34,Palencia,90,95,sin dedicación
+24122,Puente de Domingo Flórez,24,León,10958.91,1458,parcial
+9277,Puentedura,9,Burgos,500,109,sin dedicación
+24123,Quintana del Castillo,24,León,975,721,sin dedicación
+24124,Quintana del Marco,24,León,1376.9,353,sin dedicación
+42144,Quintana Redonda,42,Soria,1376.74,492,sin dedicación
+9287,Quintanaortuño,9,Burgos,300,261,sin dedicación
+9289,Quintanar de la Sierra,9,Burgos,19581,1603,exclusiva
+34143,Quintanilla de Onsoña,34,Palencia,4226.95,181,parcial
+9901,Quintanilla del Agua y Tordueles,9,Burgos,140,360,sin dedicación
+47128,Quintanilla del Molar,47,Valladolid,700,61,parcial
+9301,Quintanilla Vivar,9,Burgos,7431.13,820,parcial
+9297,"Quintanillas, Las",9,Burgos,40,362,sin dedicación
+49172,Rabanales,49,Zamora,300,501,sin dedicación
+49173,Rábano de Aliste,49,Zamora,125,353,sin dedicación
+47132,Ramiro,47,Valladolid,73.86,43,sin dedicación
+40181,Real Sitio de San Ildefonso,40,Segovia,19205.54,5285,exclusiva
+9306,Rebolledo de la Torre,9,Burgos,120,106,sin dedicación
+24127,Regueras de Arriba,24,León,250,277,sin dedicación
+9309,Regumiel de la Sierra,9,Burgos,2800,334,parcial
+47133,Renedo de Esgueva,47,Valladolid,12200.03,3814,exclusiva
+34147,Renedo de la Vega,34,Palencia,673.33,186,sin dedicación
+34151,Respenda de la Peña,34,Palencia,2310.03,151,sin dedicación
+42155,Retortillo de Soria,42,Soria,550,156,sin dedicación
+9311,Retuerta,9,Burgos,650,62,sin dedicación
+24129,Reyero,24,León,250,123,sin dedicación
+9317,Rezmondo,9,Burgos,150,21,sin dedicación
+24130,Riaño,24,León,2730,458,sin dedicación
+40170,Riaza,40,Segovia,22016.91,2117,exclusiva
+34155,Ribas de Campos,34,Palencia,2253.33,140,parcial
+24131,Riego de la Vega,24,León,2450,743,sin dedicación
+9318,Riocavado de la Sierra,9,Burgos,250,55,sin dedicación
+5195,Riofrío,5,Ávila,60,203,sin dedicación
+24133,Rioseco de Tapia,24,León,450,381,sin dedicación
+9321,Roa,9,Burgos,9252.67,2167,parcial
+49178,Roales,49,Zamora,4079.06,942,parcial
+24134,"Robla, La",24,León,900,3752,sin dedicación
+49179,Robleda-Cervantes,49,Zamora,150,395,sin dedicación
+24136,Roperuelos del Páramo,24,León,1403.46,522,parcial
+9325,Royuela de Río Franco,9,Burgos,750,174,sin dedicación
+47139,Rueda,47,Valladolid,17700,1237,exclusiva
+24137,Sabero,24,León,40,1123,sin dedicación
+40174,Sacramenia,40,Segovia,2139.86,385,parcial
+24139,Sahagún,24,León,3986.5,2477,sin dedicación
+37274,SALAMANCA,37,Salamanca,33885.05,144825,exclusiva
+9330,Salas de los Infantes,9,Burgos,4443.95,1987,sin dedicación
+49183,Salce,49,Zamora,630,93,sin dedicación
+34157,Saldaña,34,Palencia,525,2958,sin dedicación
+42161,Salduero,42,Soria,2220,152,parcial
+34158,Salinas de Pisuerga,34,Palencia,427.4,318,sin dedicación
+49184,Samir de los Caños,49,Zamora,150,172,sin dedicación
+47142,San Cebrián de Mazote,47,Valladolid,70,129,sin dedicación
+49187,San Cristóbal de Entreviñas,49,Zamora,132,1369,sin dedicación
+24144,San Cristóbal de la Polantera,24,León,2649.64,667,parcial
+40906,San Cristóbal de Segovia,40,Segovia,3630,3080,parcial
+24145,San Emiliano,24,León,1000,627,sin dedicación
+42162,SAN ESTEBAN DE GORMAZ,42,Soria,16908.59,2956,parcial
+24146,San Esteban de Nogales,24,León,3412.5,257,parcial
+24148,San Justo de la Vega,24,León,7699.98,1807,parcial
+42164,San Leonardo de Yagüe,42,Soria,6600,2054,exclusiva
+47144,San Martín de Valvení,47,Valladolid,2468.48,81,parcial
+47145,San Miguel del Arroyo,47,Valladolid,3180.83,659,parcial
+24149,San Millán de los Caballeros,24,León,300,168,sin dedicación
+47147,San Pablo de la Moraleja,47,Valladolid,120,112,sin dedicación
+24150,San Pedro Bercianos,24,León,1443.92,231,sin dedicación
+49194,San Pedro de la Nave-Almendra,49,Zamora,900,337,sin dedicación
+47150,San Román de Hornija,47,Valladolid,2970,307,parcial
+49208,San Vicente de la Cabeza,49,Zamora,210,357,sin dedicación
+47156,San Vicente del Palacio,47,Valladolid,100,162,sin dedicación
+24143,Sancedo,24,León,715,546,sin dedicación
+37281,Sanchón de la Sagrada,37,Salamanca,700,39,sin dedicación
+40179,SANCHONUÑO,40,Segovia,12883.04,973,parcial
+24151,Santa Colomba de Curueño,24,León,1000,473,sin dedicación
+24152,Santa Colomba de Somoza,24,León,2792,501,sin dedicación
+49200,Santa Cristina de la Polvorosa,49,Zamora,708.36,1073,sin dedicación
+24153,Santa Cristina de Valmadrigal,24,León,890,254,sin dedicación
+34168,Santa Cruz de Boedo,34,Palencia,600,49,sin dedicación
+24154,Santa Elena de Jamuz,24,León,2038.4,1047,sin dedicación
+49202,Santa Eufemia del Barco,49,Zamora,1793.84,175,sin dedicación
+24155,Santa María de la Isla,24,León,2560,476,sin dedicación
+49203,Santa María de la Vega,49,Zamora,150,293,sin dedicación
+24156,Santa María del Monte de Cea,24,León,576,225,sin dedicación
+24157,Santa María del Páramo,24,León,12774.09,3101,parcial
+5227,Santa María del Tiétar,5,Ávila,9675,447,parcial
+40185,Santa María la Real de Nieva,40,Segovia,7840.92,961,parcial
+24159,Santa Marina del Rey,24,León,7875,1860,parcial
+37294,Santa Marta de Tormes,37,Salamanca,20961.18,14730,exclusiva
+24160,Santas Martas,24,León,4690,729,parcial
+47153,Santervás de Campos,47,Valladolid,120,113,sin dedicación
+34169,Santervás de la Vega,34,Palencia,200,439,sin dedicación
+37296,Santiago de la Puebla,37,Salamanca,1225,309,sin dedicación
+5904,Santiago del Tormes,5,Ávila,518.98,114,sin dedicación
+24161,Santiago Millas,24,León,300,330,sin dedicación
+37297,Santibáñez de Béjar,37,Salamanca,613.7,456,sin dedicación
+34171,Santibáñez de la Peña,34,Palencia,320,1005,sin dedicación
+49206,Santibáñez de Vidriales,49,Zamora,270,922,sin dedicación
+37299,Santiz,37,Salamanca,7000,253,parcial
+47155,Santovenia de Pisuerga,47,Valladolid,6000,4604,parcial
+47157,Sardón de Duero,47,Valladolid,4549.98,579,parcial
+37301,Sardón de los Frailes,37,Salamanca,1093.2,94,sin dedicación
+24163,Sariegos,24,León,6400,5084,sin dedicación
+9363,Sasamón,9,Burgos,2630,962,sin dedicación
+37302,Saucelle,37,Salamanca,720.6,280,sin dedicación
+40192,Sauquillo de Cabezas,40,Segovia,650,146,sin dedicación
+47158,"Seca, La",47,Valladolid,6478.62,1059,parcial
+40194,SEGOVIA,40,Segovia,29926.13,52057,exclusiva
+24164,Sena de Luna,24,León,700,366,sin dedicación
+40195,Sepúlveda,40,Segovia,12950,967,exclusiva
+34175,"Serna, La",34,Palencia,1551,95,sin dedicación
+47161,Simancas,47,Valladolid,18750.03,5267,exclusiva
+24165,SOBRADO,24,León,400,301,sin dedicación
+5238,Solosancho,5,Ávila,100,820,sin dedicación
+42173,SORIA,42,Soria,31085.57,39821,exclusiva
+24166,Soto de la Vega,24,León,5075,1526,parcial
+24167,Soto y Amío,24,León,1436.79,773,parcial
+40199,Sotosalbos,40,Segovia,330,118,sin dedicación
+37313,Sotoserrano,37,Salamanca,4276,557,parcial
+9372,Sotragero,9,Burgos,180,273,sin dedicación
+49214,Tábara,49,Zamora,300,740,sin dedicación
+42181,Tardelcuende,42,Soria,2640,414,sin dedicación
+34181,Tariego de Cerrato,34,Palencia,860,476,sin dedicación
+5242,Tiñosillos,5,Ávila,3500,775,sin dedicación
+24168,Toral de los Guzmanes,24,León,400,501,sin dedicación
+24206,Toral de los Vados,24,León,17820,1812,exclusiva
+47165,Tordesillas,47,Valladolid,18440.07,8745,exclusiva
+24169,Toreno,24,León,750,3012,sin dedicación
+5245,Tornadizos de Ávila,5,Ávila,4746.67,418,parcial
+49219,Toro,49,Zamora,24165.31,8665,exclusiva
+34182,Torquemada,34,Palencia,2628.85,954,sin dedicación
+24170,Torre del Bierzo,24,León,13655.85,2114,parcial
+40206,Torre Val de San Pedro,40,Segovia,200,192,sin dedicación
+40203,TORRECABALLEROS,40,Segovia,5330.59,1372,parcial
+47166,Torrecilla de la Abadesa,47,Valladolid,4383.02,276,parcial
+47168,Torrecilla de la Torre,47,Valladolid,824.6,36,sin dedicación
+49221,Torregamones,49,Zamora,2872.15,253,parcial
+34184,Torremormojón,34,Palencia,150,43,sin dedicación
+49222,Torres del Carrizal,49,Zamora,5512.08,400,parcial
+9390,Torresandino,9,Burgos,3712.4,604,parcial
+24171,Trabadelo,24,León,10915.42,333,parcial
+47173,Traspinedo,47,Valladolid,2250,1111,parcial
+40207,Trescasas,40,Segovia,650,1074,sin dedicación
+9394,Trespaderne,9,Burgos,150,771,sin dedicación
+42188,Trévago,42,Soria,300,45,sin dedicación
+24172,Truchas,24,León,741.58,419,sin dedicación
+47175,Tudela de Duero,47,Valladolid,23548.98,8620,parcial
+24173,Turcia,24,León,4771.6,986,parcial
+40208,Turégano,40,Segovia,450,986,sin dedicación
+47179,Valbuena de Duero,47,Valladolid,1280,462,sin dedicación
+49228,Valdefinjas,49,Zamora,280,54,sin dedicación
+24175,Valdefresno,24,León,14353.04,2173,exclusiva
+24176,Valdefuentes del Páramo,24,León,1680,319,sin dedicación
+37333,Valdelacasa,37,Salamanca,960,216,sin dedicación
+24177,Valdelugueros,24,León,9388.76,515,parcial
+42194,Valdemaluque,42,Soria,1076.32,147,sin dedicación
+24178,Valdemora,24,León,130,73,sin dedicación
+24179,Valdepiélago,24,León,380,307,sin dedicación
+24180,Valdepolo,24,León,1010,1200,sin dedicación
+42196,Valdeprado,42,Soria,280,7,sin dedicación
+24181,Valderas,24,León,200,1586,sin dedicación
+24182,Valderrey,24,León,400,446,sin dedicación
+24183,Valderrueda,24,León,723.02,827,sin dedicación
+24184,Valdesamario,24,León,2520,189,sin dedicación
+24187,Valdevimbre,24,León,7282.73,958,parcial
+9406,Valdorros,9,Burgos,7226.39,297,parcial
+37338,Valdunciel,37,Salamanca,520,95,sin dedicación
+47186,VALLADOLID,47,Valladolid,45214.96,299265,exclusiva
+9904,Valle de las Navas,9,Burgos,480,509,sin dedicación
+9908,Valle de Losa,9,Burgos,3750,481,sin dedicación
+9409,Valle de Manzanedo,9,Burgos,97.28,122,sin dedicación
+9410,Valle de Mena,9,Burgos,18173.64,3805,exclusiva
+9411,Valle de Oca,9,Burgos,250,165,sin dedicación
+9902,Valle de Santibáñez,9,Burgos,1000,483,sin dedicación
+9905,Valle de Sedano,9,Burgos,745,421,sin dedicación
+9412,Valle de Tobalina,9,Burgos,8333.33,909,parcial
+9413,Valle de Valdebezana,9,Burgos,490,456,sin dedicación
+9415,Valle de Valdelucio,9,Burgos,250,330,sin dedicación
+40216,Valverde del Majano,40,Segovia,100,1115,sin dedicación
+24190,Valverde-Enrique,24,León,295,155,sin dedicación
+24193,"Vecilla, La",24,León,2600,393,parcial
+24196,Vega de Espinareda,24,León,1350,2044,sin dedicación
+24197,Vega de Infanzones,24,León,1055.92,818,sin dedicación
+24198,Vega de Valcarce,24,León,11456,587,parcial
+24199,Vegaquemada,24,León,11674.25,438,parcial
+24201,Vegas del Condado,24,León,9143.54,1109,parcial
+42200,Velamazán,42,Soria,2400,73,sin dedicación
+47189,Velascálvaro,47,Valladolid,2642.19,165,parcial
+47190,Velilla,47,Valladolid,367.2,114,sin dedicación
+34199,Velilla del Río Carrión,34,Palencia,14585.84,1230,exclusiva
+47191,Velliza,47,Valladolid,200,112,sin dedicación
+34023,Venta de Baños,34,Palencia,5150,6401,sin dedicación
+40224,Ventosilla y Tejadilla,40,Segovia,100,16,sin dedicación
+34201,Vertavillo,34,Palencia,1730,176,sin dedicación
+49235,Vezdemarbán,49,Zamora,500,448,sin dedicación
+47193,Viana de Cega,47,Valladolid,4250,2062,parcial
+42204,Viana de Duero,42,Soria,1020,54,sin dedicación
+49237,Videmala,49,Zamora,150,144,sin dedicación
+47195,Villabáñez,47,Valladolid,1750,489,sin dedicación
+24202,Villablino,24,León,16897.81,8444,exclusiva
+47197,Villabrágima,47,Valladolid,4588.74,1053,parcial
+24203,Villabraz,24,León,925,91,sin dedicación
+49239,Villabuena del Puente,49,Zamora,3906.4,649,parcial
+40225,Villacastín,40,Segovia,352.8,1483,sin dedicación
+47200,Villaco,47,Valladolid,363,74,sin dedicación
+34206,Villada,34,Palencia,110,920,sin dedicación
+24205,Villadangos del Páramo,24,León,12220,1163,exclusiva
+24207,Villademor de la Vega,24,León,782,325,sin dedicación
+49240,Villadepera,49,Zamora,617.73,197,parcial
+9427,Villadiego,9,Burgos,6956.21,1500,parcial
+34208,Villaeles de Valdavia,34,Palencia,600,51,sin dedicación
+9429,Villaescusa la Sombría,9,Burgos,600,58,sin dedicación
+49243,Villaferrueña,49,Zamora,120,109,sin dedicación
+47204,Villafranca de Duero,47,Valladolid,1480.73,267,parcial
+24209,Villafranca del Bierzo,24,León,12828.88,2855,parcial
+9431,Villafranca Montes de Oca,9,Burgos,400,113,sin dedicación
+47206,Villafuerte,47,Valladolid,386.1,85,sin dedicación
+9434,Villagonzalo Pedernales,9,Burgos,10933.34,1859,exclusiva
+34211,Villaherreros,34,Palencia,1350,204,parcial
+47210,Villalar de los Comuneros,47,Valladolid,200,468,sin dedicación
+47213,Villalbarba,47,Valladolid,300,115,sin dedicación
+9439,Villalbilla de Burgos,9,Burgos,1750,1423,sin dedicación
+49247,Villalcampo,49,Zamora,350,419,sin dedicación
+34217,Villalobón,34,Palencia,5220,1734,sin dedicación
+49251,Villalube,49,Zamora,120,170,sin dedicación
+34218,Villaluenga de la Vega,34,Palencia,2286.63,574,exclusiva
+24211,Villamandos,24,León,750,295,sin dedicación
+24901,Villamanín,24,León,4691.93,911,sin dedicación
+24212,Villamañán,24,León,1833.54,1102,parcial
+34220,Villamartín de Campos,34,Palencia,756,181,sin dedicación
+24213,Villamartín de Don Sancho,24,León,210,159,sin dedicación
+37354,Villamayor,37,Salamanca,15812.22,7212,parcial
+9445,Villambistia,9,Burgos,200,44,sin dedicación
+24214,Villamejil,24,León,5546.67,672,parcial
+34222,Villameriel,34,Palencia,1200,106,sin dedicación
+24215,Villamol,24,León,500,152,sin dedicación
+24216,Villamontán de la Valduerna,24,León,3500,720,parcial
+49255,Villamor de los Escuderos,49,Zamora,4503.18,371,sin dedicación
+24217,Villamoratiel de las Matas,24,León,520,135,sin dedicación
+34223,Villamoronta,34,Palencia,1103.95,241,sin dedicación
+34225,Villamuriel de Cerrato,34,Palencia,15437,6469,exclusiva
+49256,Villanázar,49,Zamora,140,270,sin dedicación
+49257,Villanueva de Azoague,49,Zamora,120,358,sin dedicación
+49258,Villanueva de Campeán,49,Zamora,2337.2,119,parcial
+47218,Villanueva de Duero,47,Valladolid,5602.55,1189,parcial
+49260,Villanueva del Campo,49,Zamora,1330,823,sin dedicación
+24219,Villaobispo de Otero,24,León,1135,532,sin dedicación
+34229,Villaprovedo,34,Palencia,1400,56,sin dedicación
+24221,Villaquejida,24,León,1350,827,sin dedicación
+24222,Villaquilambre,24,León,27222.05,18684,exclusiva
+37359,Villar de la Yegua,37,Salamanca,72,174,sin dedicación
+49264,Villar del Buey,49,Zamora,1650,556,sin dedicación
+42209,Villar del Río,42,Soria,105,144,sin dedicación
+9903,Villarcayo de Merindad de Castilla la Vieja,9,Burgos,13638.33,4011,exclusiva
+49265,Villardiegua de la Ribera,49,Zamora,96,114,sin dedicación
+24224,Villares de Órbigo,24,León,2715.75,596,parcial
+9458,Villariezo,9,Burgos,1600,645,sin dedicación
+34232,Villarramiel,34,Palencia,103.65,818,sin dedicación
+49268,Villarrín de Campos,49,Zamora,7621.1,390,parcial
+24225,Villasabariego,24,León,5408,1123,parcial
+42212,Villasayas,42,Soria,900,66,sin dedicación
+34234,Villasila de Valdavia,34,Palencia,1798.58,70,parcial
+34236,Villaturde,34,Palencia,2033.98,157,sin dedicación
+24227,Villaturiel,24,León,5890.5,1826,parcial
+34237,Villaumbrales,34,Palencia,504,650,sin dedicación
+47226,Villavaquerín,47,Valladolid,1600,161,sin dedicación
+47228,Villaverde de Medina,47,Valladolid,1073.33,513,parcial
+49272,Villaveza de Valverde,49,Zamora,40,71,sin dedicación
+49271,Villaveza del Agua,49,Zamora,1072.5,176,parcial
+24228,Villazala,24,León,352.8,647,sin dedicación
+34243,Villoldo,34,Palencia,3040,343,parcial
+9425,Vilviestre del Pinar,9,Burgos,150,516,sin dedicación
+42215,Vinuesa,42,Soria,12420.91,847,exclusiva
+49273,Viñas,49,Zamora,60,167,sin dedicación
+42216,Vizmanos,42,Soria,250,29,sin dedicación
+42218,Yanguas,42,Soria,3600,103,parcial
+49275,ZAMORA,49,Zamora,18876.33,60988,exclusiva
+47231,Zaratán,47,Valladolid,12959.86,6235,exclusiva
+40233,Zarzuela del Monte,40,Segovia,1105.75,485,sin dedicación
+40234,Zarzuela del Pinar,40,Segovia,350,424,sin dedicación
+24230,Zotes del Páramo,24,León,2475,423,sin dedicación
+9485,Zuñeda,9,Burgos,450,53,sin dedicación
